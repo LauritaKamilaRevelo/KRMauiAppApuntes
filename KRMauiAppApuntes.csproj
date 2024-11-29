@@ -73,6 +73,9 @@
 	  <MauiXaml Update="Views\KRAboutPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\KRAllNotesPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\KRNotePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
