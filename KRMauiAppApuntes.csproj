@@ -70,10 +70,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="KRAboutPage.xaml">
+	  <MauiXaml Update="Views\KRAboutPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="KRNotePage.xaml">
+	  <MauiXaml Update="Views\KRNotePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
